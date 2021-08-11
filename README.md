@@ -1,6 +1,11 @@
 # Introduction
 Notify.me is a web app which is used to store a user's note locally, storing notes is beneficial as the user can access them offline
 
+## Technologies Used
+- Semantic HTML5 Markup
+- Bootstrap 5
+- Vanilla JavaScript
+
 ## Author
 - Website: [Hargunbeer Singh](https://hargunbeer.netlify.app)
 - Twitter: [@hargunbeer.me](https://twitter.com)
